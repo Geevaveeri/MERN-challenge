@@ -8,7 +8,10 @@
   5. [Tests](#Tests)
   6. [License](#License)
   7. [Questions](#Questions)
+  
+  ![mern-challenge-screenshot](https://user-images.githubusercontent.com/59940979/128641049-c0705580-63a2-45e9-88e6-536538947e1c.PNG)
 
+https://mern-challenge.herokuapp.com/
 
 ## Description
 Fully functioning Google Books API search engine with GraphQL API built with Apollo Server. The app was built using the MERN stack, with a React front end, MongoDB database, and Node.js/Express.js server and API. 
